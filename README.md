@@ -1,5 +1,5 @@
 
-![Tic Tac Toe](https://github.com/Rahulsharma936/rahul-tictactoe/blob/main/src/assets/images/project-preview.png?raw=true)
+![Tic Tac Toe]
 
 #About Project
 I made this game out of boredom using reactjs.
